@@ -6,10 +6,10 @@
 <div align='left'>
   <h2><img align='center' width='35' alt="GIF" src="./images/Profile.png"/> General info:</h2>
 
-  - <img align='center' width='30' alt="GIF" src="./images/brf.png"/>   Software Development Intern at BRF
-  - <img align='center' width='30' alt="GIF" src="./images/Birthday.png"/>   20 years old
-  - <img align='center' width='30' alt="GIF" src="./images/Study.png"/>   I'm a Analysis and Systems Development
-  - <img align='center' width='30' alt="GIF" src="./images/Mail.png"/>   How to reach me: leofellipesouza@gmail.com
+  - Software Development Intern at BRF
+  - Age: 20 years old
+  - College course: Analysis and Systems Development
+  - E-mail: leofellipesouza@gmail.com
 </div>
 
 ## 💬 Languages
