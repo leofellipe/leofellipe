@@ -1,8 +1,5 @@
 ## 💻 Skills
 
-![leofellipe's stats](https://github-readme-stats-deploy-nu.vercel.app/api/top-langs/?username=leofellipe&hide_border=true&theme=tokyonight&layout=compact&langcount=16&hide=Jupyter%20Notebook,JavaScript,CSS,Go,SCSS)
-![leofellipe's stats](https://github-readme-stats-deploy-nu.vercel.app/api?username=leofellipe&theme=tokyonight&hide_border=true%count_private=true&&include_all_commits=true)
-
 <div align='left'>
   <h2><img align='center' width='35' alt="GIF" src="./images/Profile.png"/> General info:</h2>
 
