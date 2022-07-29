@@ -35,7 +35,6 @@
 ## 🛠 Dev Tools
 <p>    
   <img  height="38" alingn="left" src="./images/vscode.png" alt="VS Code" />  
-  <img  height="38" alingn="left" src="./images/visual.png" alt="Visual Studio 2022" />  
   <img  height="38" alingn="left" src="./images/postman.png" alt="Postman" />
   <img  height="38" alingn="left" src="./images/insomnia.png" alt="Insomnia" />
   <img  height="38" alingn="left" src="./images/git.png" alt="Git" />
