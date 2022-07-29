@@ -41,5 +41,3 @@
   <img  height="38" alingn="left" src="./images/github.png" alt="GitHub" />
     <img  height="38" alingn="left" src="./images/azure.png" alt="Azure" />
 </p>
-
-### This readme.md was heavily based on my friend [Rodrigo2019](https://github.com/rodrigo2019)
