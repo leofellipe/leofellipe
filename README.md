@@ -26,6 +26,7 @@
 <p>
   <img  height="38" alingn="left" src="./images/sql.png" alt="SQL" />
   <img  height="38" alingn="left" src="./images/mysql.png" alt="MySQL" />
+  <img  height="38" alingn="left" src="./images/mongoDB.png" alt="MongoDB" />
 </p>
 
 ## 🛠 Dev Tools
@@ -35,5 +36,5 @@
   <img  height="38" alingn="left" src="./images/insomnia.png" alt="Insomnia" />
   <img  height="38" alingn="left" src="./images/git.png" alt="Git" />
   <img  height="38" alingn="left" src="./images/github.png" alt="GitHub" />
-    <img  height="38" alingn="left" src="./images/azure.png" alt="Azure" />
+  <img  height="38" alingn="left" src="./images/azure.png" alt="Azure" />
 </p>
