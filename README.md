@@ -13,6 +13,7 @@
   <img  height="38" alingn="left" src="./images/html.png" alt="HTML" />
   <img  height="38" alingn="left" src="./images/css3.png" alt="CSS" />
   <img  height="38" alingn="left" src="./images/javascript.png" alt="JavaScript" />
+  <img  height="38" alingn="left" src="./images/typescript.png" alt="TypeScript" />
   <img  height="38" alingn="left" src="./images/python.png" alt="Python"/>
 </p>
 
