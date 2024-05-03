@@ -3,7 +3,7 @@
 <div align='left'>
   <h2><img align='center' width='35' alt="GIF" src="./images/Profile.png"/> General info:</h2>
 
-  - Age: 20 years old
+  - Age: 22 years old
   - College course: Analysis and Systems Development
   - E-mail: leofellipesouza@gmail.com
 </div>
